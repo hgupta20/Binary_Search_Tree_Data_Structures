@@ -1,4 +1,4 @@
-# Binary Tree Data Structures
+# Binary Search Tree Data Structures
 
 #### BST implentation and improving runtime by balancing the trees.
 
