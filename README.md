@@ -2,7 +2,7 @@
 
 #### BST implentation and improving runtime by balancing the trees.
 
-The functions are:
+The functions implemented are:
 - lookup
 - delete
 - insert
